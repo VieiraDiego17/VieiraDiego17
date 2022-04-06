@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**VieiraDiego17/VieiraDiego17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://user-images.githubusercontent.com/96498994/161878478-be0bb56d-78e2-4c97-a1e5-23c523679073.gif)
+### Olá eu sou o Diego Vieira ✌️
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-vieira-ads-2021/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/Diego.Vieira)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=VieiraDiego17&show_icons=true&theme=merko)
+
+## Tecnologias que estou estudando
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
+
+## Apaixonado por estudar, aprender e mudar a vida das pessoas através da tecnologia
