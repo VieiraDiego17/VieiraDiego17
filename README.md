@@ -16,7 +16,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-FF5722?style=for-the-badge&logo=kotlin&logoColor=blue/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-FF5722?style=for-the-badge&logo=kotlin&logoColor=blue"/>
 </div>
 
 ## Apaixonado por estudar, aprender e mudar a vida das pessoas através da tecnologia
