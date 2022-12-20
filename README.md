@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-vieira-ads-2021/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/Diego.Vieira)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=VieiraDiego17&theme=merko&count_private=true&show_icons=true)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=VieiraDiego17&theme=dark&count_private=true&show_icons=true)
 
 ## Tecnologias que estou estudando
 
